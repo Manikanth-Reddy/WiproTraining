@@ -1,3 +1,3 @@
-#Wipro Training
+#WiproTraining
 
 Added line from Remote
